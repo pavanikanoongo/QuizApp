@@ -1,5 +1,4 @@
-Customizable Quiz App
-A dynamic and multilingual quiz application where users can customize quiz parameters like number of questions, category, time per question, and language. Features real-time answer validation, translation, text-to-speech, and a final score summary.
+Customizable Quiz App,A dynamic and multilingual quiz application where users can customize quiz parameters like number of questions, category, time per question, and language. Features real-time answer validation, translation, text-to-speech, and a final score summary.
 
 -> Features
 • Select number of questions, category, difficulty, and time per question
@@ -30,8 +29,8 @@ Question: Stores questions with category and language ,
 Answer: Stores multiple answers per question with correctness flags ,
 
 -> Acknowledgements
-MyMemory API for translations
-Browser SpeechSynthesis API for text-to-speech
+MyMemory API for translations,
+Browser SpeechSynthesis API for text-to-speech,
 Spring Boot & PostgreSQL community docs
 
 
