@@ -11,23 +11,23 @@ A dynamic and multilingual quiz application where users can customize quiz param
 
 -> Tech Stack
 • Frontend:
-HTML
-CSS
-JavaScript
-Fetch API
+HTML,
+CSS,
+JavaScript,
+Fetch API,
 Text-to-Speech API
 
-Backend:
-Spring Boot
-RESTful APIs
-PostgreSQL
-Postman (for testing)
+• Backend:
+Spring Boot,
+RESTful APIs,
+PostgreSQL,
+Postman (for testing),
 IntelliJ IDEA (development)
 
 -> Database Structure
-Category: Stores quiz categories
-Question: Stores questions with category and language
-Answer: Stores multiple answers per question with correctness flags
+Category: Stores quiz categories ,
+Question: Stores questions with category and language ,
+Answer: Stores multiple answers per question with correctness flags ,
 
 -> Acknowledgements
 MyMemory API for translations
